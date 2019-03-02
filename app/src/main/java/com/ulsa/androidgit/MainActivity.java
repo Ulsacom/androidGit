@@ -4,7 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    public  static  final  float FLOAT=1;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -13,3 +14,16 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
